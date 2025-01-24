@@ -1,2 +1,2 @@
-## QuackQuack
+### QuackQuack
 Flappy Quack
